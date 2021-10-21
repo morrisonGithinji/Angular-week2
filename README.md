@@ -29,6 +29,8 @@ To fix a bug or enhance an existing module, follow these steps:
 - Create a Pull Request
 
 ## Known Bugs
+ 
+ Takes  time to load the repos after inputing the username
 
 ## License
 
