@@ -12,7 +12,7 @@ import {User} from '../user';
 })
 
 export class SearchComponent implements OnInit {
-    public searchMe = 'wanjiiru';
+    public searchMe = 'morrisonGithinji';
     public githubUser: string;
 
     users: User ;
