@@ -13,7 +13,7 @@ export class RepositoriesComponent implements OnInit {
 
     repository: Repository;
     public searchRepo: string;
-    public resultCount = 12;
+    public resultCount = 10;
 
     searchRepos() {
         this.searchRepo = '';
